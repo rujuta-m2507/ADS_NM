@@ -59,18 +59,8 @@ The analysis and visualizations in this project provide insights into the demogr
 - The level of education among marginal workers.
 - The types of jobs marginalized workers are engaged in.
 
-## Contributing
-
-If you wish to contribute to this project or report issues, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 We would like to acknowledge the data sources and all contributors to this project who have helped in the analysis.
 
----
 
-*Note: Customize this README file with your project's specific details, and make sure to include a LICENSE file with your chosen licensing terms.*
